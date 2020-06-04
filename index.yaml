@@ -3,7 +3,7 @@ entries:
   adminmongo:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-06-04T12:51:45.31297+03:00"
+    created: "2020-06-04T20:35:29.272136+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -17,7 +17,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-06-04T12:51:45.312156+03:00"
+    created: "2020-06-04T20:35:29.271019+03:00"
     dependencies:
     - name: common
       repository: https://bbb74450811352e3da6cdbfb2c75b0f7c4048bd1@raw.githubusercontent.com/buildasc/common/master/
@@ -32,7 +32,7 @@ entries:
   board:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2020-06-04T12:51:45.314048+03:00"
+    created: "2020-06-04T20:35:29.273642+03:00"
     dependencies:
     - name: common
       repository: https://bbb74450811352e3da6cdbfb2c75b0f7c4048bd1@raw.githubusercontent.com/buildasc/common/master/
@@ -47,7 +47,21 @@ entries:
   chat-sales-delivery:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2020-06-04T12:51:45.315038+03:00"
+    created: "2020-06-04T20:35:29.276395+03:00"
+    dependencies:
+    - name: common
+      repository: https://buildasc.github.io/common/
+      version: 0.0.8
+    description: NodeJS Websocket Server
+    digest: 6fc4a5f4eb4ce7ba51f4260f82de5b9574b5ffda41f37a7a0fdaed68317d9935
+    name: chat-sales-delivery
+    type: application
+    urls:
+    - chat-sales-delivery-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 0.1.1
+    created: "2020-06-04T20:35:29.274911+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -62,7 +76,7 @@ entries:
   common:
   - apiVersion: v2
     appVersion: 0.0.7
-    created: "2020-06-04T12:51:45.317515+03:00"
+    created: "2020-06-04T20:35:29.27928+03:00"
     description: Common chartbuilding components and helpers
     digest: 88b4a6bbaed44897a9f602ee6e5340f36ec3ccd2757a67937f9b276443660099
     home: https://helm.sh
@@ -73,7 +87,7 @@ entries:
     version: 0.0.8
   - apiVersion: v2
     appVersion: 0.0.7
-    created: "2020-06-04T12:51:45.316874+03:00"
+    created: "2020-06-04T20:35:29.278577+03:00"
     description: Common chartbuilding components and helpers
     digest: 51242043df003627ac7e5905cd099d4c2c0f40cfdc029a4d3f98cdd947c972f4
     home: https://helm.sh
@@ -84,7 +98,7 @@ entries:
     version: 0.0.7
   - apiVersion: v2
     appVersion: 0.0.6
-    created: "2020-06-04T12:51:45.316268+03:00"
+    created: "2020-06-04T20:35:29.277859+03:00"
     description: Common chartbuilding components and helpers
     digest: 694e393ee9560abc1e1e718fd55cfe66a1b7db1dd6732e3e45a1b7fb187924ad
     home: https://helm.sh
@@ -95,7 +109,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2020-06-04T12:51:45.315676+03:00"
+    created: "2020-06-04T20:35:29.277156+03:00"
     description: Common chartbuilding components and helpers
     digest: 43e8597d2a4ba1d01b28745946065cb5b0a147a08aeecc740e53d9f20d7b429f
     home: https://helm.sh
@@ -111,7 +125,7 @@ entries:
   delivery-php:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-06-04T12:51:45.323183+03:00"
+    created: "2020-06-04T20:35:29.28478+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -125,7 +139,7 @@ entries:
     version: 0.1.16
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-06-04T12:51:45.322125+03:00"
+    created: "2020-06-04T20:35:29.283712+03:00"
     dependencies:
     - name: common
       repository: https://bbb74450811352e3da6cdbfb2c75b0f7c4048bd1@raw.githubusercontent.com/buildasc/common/master/
@@ -139,7 +153,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-06-04T12:51:45.321013+03:00"
+    created: "2020-06-04T20:35:29.282612+03:00"
     dependencies:
     - name: common
       repository: https://bbb74450811352e3da6cdbfb2c75b0f7c4048bd1@raw.githubusercontent.com/buildasc/common/master/
@@ -153,7 +167,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-06-04T12:51:45.319079+03:00"
+    created: "2020-06-04T20:35:29.281174+03:00"
     dependencies:
     - name: common
       repository: https://bbb74450811352e3da6cdbfb2c75b0f7c4048bd1@raw.githubusercontent.com/buildasc/common/master/
@@ -168,7 +182,7 @@ entries:
   esp:
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2020-06-04T12:51:45.325031+03:00"
+    created: "2020-06-04T20:35:29.286697+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -182,7 +196,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2020-06-04T12:51:45.324062+03:00"
+    created: "2020-06-04T20:35:29.285741+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -197,7 +211,7 @@ entries:
   gcloud-sqlproxy:
   - apiVersion: v1
     appVersion: "1.16"
-    created: "2020-06-04T12:51:45.325911+03:00"
+    created: "2020-06-04T20:35:29.287566+03:00"
     description: Google Cloud SQL Proxy
     digest: ddf58470961283656d06dacc2a91adb640e608fa162622d0b7fb0069bcaea05e
     home: https://cloud.google.com/sql/docs/postgres/sql-proxy
@@ -221,7 +235,7 @@ entries:
     version: 0.19.7
   helm-cronjobs:
   - apiVersion: v1
-    created: "2020-06-04T12:51:45.326358+03:00"
+    created: "2020-06-04T20:35:29.287982+03:00"
     description: A chart for cron jobs
     digest: f40caa86ee6a711f05fdbfb6175b2ef2f49f467f0635829f65b29fadddc28c0a
     home: https://github.com/bambash
@@ -239,7 +253,7 @@ entries:
   websocket-delivery:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2020-06-04T12:51:45.328732+03:00"
+    created: "2020-06-04T20:35:29.29108+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -253,7 +267,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2020-06-04T12:51:45.327941+03:00"
+    created: "2020-06-04T20:35:29.289558+03:00"
     dependencies:
     - name: common
       repository: https://bbb74450811352e3da6cdbfb2c75b0f7c4048bd1@raw.githubusercontent.com/buildasc/common/master/
@@ -267,7 +281,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2020-06-04T12:51:45.32714+03:00"
+    created: "2020-06-04T20:35:29.288768+03:00"
     dependencies:
     - name: common
       repository: https://bbb74450811352e3da6cdbfb2c75b0f7c4048bd1@raw.githubusercontent.com/buildasc/common/master/
@@ -281,7 +295,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-06-04T12:51:45.330228+03:00"
+    created: "2020-06-04T20:35:29.29187+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -293,4 +307,4 @@ entries:
     urls:
     - websocket-delivery-0.1.6.tgz
     version: 0.1.6
-generated: "2020-06-04T12:51:45.310219+03:00"
+generated: "2020-06-04T20:35:29.268078+03:00"
