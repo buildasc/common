@@ -3,7 +3,7 @@ entries:
   accounting:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.035827+03:00"
+    created: "2026-07-21T14:16:36.02406+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -17,7 +17,7 @@ entries:
     version: 0.2.7
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.035095+03:00"
+    created: "2026-07-21T14:16:36.023365+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -31,7 +31,7 @@ entries:
     version: 0.2.6
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.034304+03:00"
+    created: "2026-07-21T14:16:36.022202+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -45,7 +45,7 @@ entries:
     version: 0.2.5
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.033561+03:00"
+    created: "2026-07-21T14:16:36.020588+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -59,7 +59,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.032772+03:00"
+    created: "2026-07-21T14:16:36.019974+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -73,7 +73,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.031706+03:00"
+    created: "2026-07-21T14:16:36.019333+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -87,7 +87,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.031155+03:00"
+    created: "2026-07-21T14:16:36.018824+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -101,7 +101,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.030678+03:00"
+    created: "2026-07-21T14:16:36.018324+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -115,7 +115,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.030094+03:00"
+    created: "2026-07-21T14:16:36.017724+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -129,7 +129,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.02948+03:00"
+    created: "2026-07-21T14:16:36.017094+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -143,7 +143,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.028478+03:00"
+    created: "2026-07-21T14:16:36.016254+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -158,7 +158,7 @@ entries:
   adminmongo:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.036637+03:00"
+    created: "2026-07-21T14:16:36.024837+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -172,7 +172,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.036225+03:00"
+    created: "2026-07-21T14:16:36.024447+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -187,7 +187,7 @@ entries:
   apimediator:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.038802+03:00"
+    created: "2026-07-21T14:16:36.026641+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -201,7 +201,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.038009+03:00"
+    created: "2026-07-21T14:16:36.026058+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -215,7 +215,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.037334+03:00"
+    created: "2026-07-21T14:16:36.025473+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -230,7 +230,7 @@ entries:
   aq-php:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.04186+03:00"
+    created: "2026-07-21T14:16:36.030035+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -244,7 +244,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.041287+03:00"
+    created: "2026-07-21T14:16:36.029372+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -258,7 +258,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.0403+03:00"
+    created: "2026-07-21T14:16:36.028692+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -272,7 +272,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.039775+03:00"
+    created: "2026-07-21T14:16:36.027684+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -286,7 +286,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.039291+03:00"
+    created: "2026-07-21T14:16:36.027161+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -301,7 +301,7 @@ entries:
   asistent-ai:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.044085+03:00"
+    created: "2026-07-21T14:16:36.031881+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -315,7 +315,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.043361+03:00"
+    created: "2026-07-21T14:16:36.031241+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -329,7 +329,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.042649+03:00"
+    created: "2026-07-21T14:16:36.030661+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -343,7 +343,7 @@ entries:
     version: 0.1.0
   bkp-cronjobs:
   - apiVersion: v2
-    created: "2026-06-25T12:36:01.046196+03:00"
+    created: "2026-07-21T14:16:36.033467+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -355,7 +355,7 @@ entries:
     - bkp-cronjobs-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
-    created: "2026-06-25T12:36:01.045434+03:00"
+    created: "2026-07-21T14:16:36.032822+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -367,7 +367,7 @@ entries:
     - bkp-cronjobs-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
-    created: "2026-06-25T12:36:01.044729+03:00"
+    created: "2026-07-21T14:16:36.032342+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -381,7 +381,7 @@ entries:
   board:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.049781+03:00"
+    created: "2026-07-21T14:16:36.036969+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -395,7 +395,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.048956+03:00"
+    created: "2026-07-21T14:16:36.036338+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -409,7 +409,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.048002+03:00"
+    created: "2026-07-21T14:16:36.035705+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -423,7 +423,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.047522+03:00"
+    created: "2026-07-21T14:16:36.034519+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -437,7 +437,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.04666+03:00"
+    created: "2026-07-21T14:16:36.033911+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -452,7 +452,7 @@ entries:
   cache-warmup-job:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-06-25T12:36:01.050501+03:00"
+    created: "2026-07-21T14:16:36.037587+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -467,7 +467,7 @@ entries:
   cache-warmup-job-php:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-06-25T12:36:01.052817+03:00"
+    created: "2026-07-21T14:16:36.039614+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -481,7 +481,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-06-25T12:36:01.052076+03:00"
+    created: "2026-07-21T14:16:36.038935+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -495,7 +495,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-06-25T12:36:01.051305+03:00"
+    created: "2026-07-21T14:16:36.038264+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -510,7 +510,7 @@ entries:
   chat-sales-delivery:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.060808+03:00"
+    created: "2026-07-21T14:16:36.0479+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -524,7 +524,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.060086+03:00"
+    created: "2026-07-21T14:16:36.047264+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -538,7 +538,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.059615+03:00"
+    created: "2026-07-21T14:16:36.046435+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -552,7 +552,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.059155+03:00"
+    created: "2026-07-21T14:16:36.04598+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -566,7 +566,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.054111+03:00"
+    created: "2026-07-21T14:16:36.040895+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -580,7 +580,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.053671+03:00"
+    created: "2026-07-21T14:16:36.040473+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -594,7 +594,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.053246+03:00"
+    created: "2026-07-21T14:16:36.040048+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -608,7 +608,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.058691+03:00"
+    created: "2026-07-21T14:16:36.04553+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -622,7 +622,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.058242+03:00"
+    created: "2026-07-21T14:16:36.04509+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -636,7 +636,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.057802+03:00"
+    created: "2026-07-21T14:16:36.044647+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -650,7 +650,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.05725+03:00"
+    created: "2026-07-21T14:16:36.044096+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -664,7 +664,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.056641+03:00"
+    created: "2026-07-21T14:16:36.043555+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -679,7 +679,7 @@ entries:
   common:
   - apiVersion: v2
     appVersion: 0.0.7
-    created: "2026-06-25T12:36:01.064906+03:00"
+    created: "2026-07-21T14:16:36.051152+03:00"
     description: Common chartbuilding components and helpers
     digest: a7006b6821e11e6dc791ff571036ded5d5a66667ed9e1bae5ee68d03e37180ba
     home: https://helm.sh
@@ -690,7 +690,7 @@ entries:
     version: 0.0.19
   - apiVersion: v2
     appVersion: 0.0.7
-    created: "2026-06-25T12:36:01.064284+03:00"
+    created: "2026-07-21T14:16:36.050647+03:00"
     description: Common chartbuilding components and helpers
     digest: f01f94334e8bbd4deb01f99d36995e71df50754d0acc4072ae0bf995e42ee8eb
     home: https://helm.sh
@@ -701,7 +701,7 @@ entries:
     version: 0.0.18
   - apiVersion: v2
     appVersion: 0.0.7
-    created: "2026-06-25T12:36:01.063942+03:00"
+    created: "2026-07-21T14:16:36.050343+03:00"
     description: Common chartbuilding components and helpers
     digest: 8865e0831b868dc08dc0f9bca345136b4246d444067b6ff5cade08d90db00278
     home: https://helm.sh
@@ -712,7 +712,7 @@ entries:
     version: 0.0.17
   - apiVersion: v2
     appVersion: 0.0.7
-    created: "2026-06-25T12:36:01.063605+03:00"
+    created: "2026-07-21T14:16:36.050044+03:00"
     description: Common chartbuilding components and helpers
     digest: 86dc6034a6eb09c7540e4882170cf35ced7a15b8db9b2e5601c5b43600a1285d
     home: https://helm.sh
@@ -723,7 +723,7 @@ entries:
     version: 0.0.16
   - apiVersion: v2
     appVersion: 0.0.7
-    created: "2026-06-25T12:36:01.063254+03:00"
+    created: "2026-07-21T14:16:36.049734+03:00"
     description: Common chartbuilding components and helpers
     digest: ca8c5bec65f30dad84da0d23264764ec2e34cc7195557282090721d179928ff7
     home: https://helm.sh
@@ -734,7 +734,7 @@ entries:
     version: 0.0.15
   - apiVersion: v2
     appVersion: 0.0.7
-    created: "2026-06-25T12:36:01.062625+03:00"
+    created: "2026-07-21T14:16:36.049423+03:00"
     description: Common chartbuilding components and helpers
     digest: 7693b5aef5cb41e1cddbbf0e76ee7082043d812f348203f446657ed05aaf8997
     home: https://helm.sh
@@ -745,7 +745,7 @@ entries:
     version: 0.0.14
   - apiVersion: v2
     appVersion: 0.0.7
-    created: "2026-06-25T12:36:01.062298+03:00"
+    created: "2026-07-21T14:16:36.049135+03:00"
     description: Common chartbuilding components and helpers
     digest: 8f79a97c9dfa1d2e6734ee9a952438200f1a79fb67d3bc05387f2237d40f1113
     home: https://helm.sh
@@ -756,7 +756,7 @@ entries:
     version: 0.0.13
   - apiVersion: v2
     appVersion: 0.0.7
-    created: "2026-06-25T12:36:01.061963+03:00"
+    created: "2026-07-21T14:16:36.048827+03:00"
     description: Common chartbuilding components and helpers
     digest: 08e3da8f42cda223f3789a10fd18497c0e19104d3ca97af7e514fa3a54cabc7c
     home: https://helm.sh
@@ -767,7 +767,7 @@ entries:
     version: 0.0.12
   - apiVersion: v2
     appVersion: 0.0.7
-    created: "2026-06-25T12:36:01.061498+03:00"
+    created: "2026-07-21T14:16:36.048517+03:00"
     description: Common chartbuilding components and helpers
     digest: 6f8d75469c9f462f2d7984c5a55e07579688400ca7913159ce4a7f76a16d35bc
     home: https://helm.sh
@@ -778,7 +778,7 @@ entries:
     version: 0.0.11
   - apiVersion: v2
     appVersion: 0.0.7
-    created: "2026-06-25T12:36:01.061167+03:00"
+    created: "2026-07-21T14:16:36.048221+03:00"
     description: Common chartbuilding components and helpers
     digest: 953b0049e52229f7e6511bf2c96ca994bbd84232d904f398b87ce7b7157794ed
     home: https://helm.sh
@@ -789,7 +789,7 @@ entries:
     version: 0.0.10
   - apiVersion: v2
     appVersion: 0.0.7
-    created: "2026-06-25T12:36:01.066731+03:00"
+    created: "2026-07-21T14:16:36.052314+03:00"
     description: Common chartbuilding components and helpers
     digest: bfadfde3779bc6104b894323f02a0125b74e4166d4dcf1831e2ef8b677e373e9
     home: https://helm.sh
@@ -800,7 +800,7 @@ entries:
     version: 0.0.9
   - apiVersion: v2
     appVersion: 0.0.7
-    created: "2026-06-25T12:36:01.065697+03:00"
+    created: "2026-07-21T14:16:36.051837+03:00"
     description: Common chartbuilding components and helpers
     digest: 88b4a6bbaed44897a9f602ee6e5340f36ec3ccd2757a67937f9b276443660099
     home: https://helm.sh
@@ -811,7 +811,7 @@ entries:
     version: 0.0.8
   - apiVersion: v2
     appVersion: 0.0.7
-    created: "2026-06-25T12:36:01.06524+03:00"
+    created: "2026-07-21T14:16:36.05144+03:00"
     description: Common chartbuilding components and helpers
     digest: 51242043df003627ac7e5905cd099d4c2c0f40cfdc029a4d3f98cdd947c972f4
     home: https://helm.sh
@@ -823,7 +823,7 @@ entries:
   delivery-php:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.075972+03:00"
+    created: "2026-07-21T14:16:36.061353+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -837,7 +837,7 @@ entries:
     version: 0.2.8
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.075056+03:00"
+    created: "2026-07-21T14:16:36.060635+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -851,7 +851,7 @@ entries:
     version: 0.2.7
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.074302+03:00"
+    created: "2026-07-21T14:16:36.059975+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -865,7 +865,7 @@ entries:
     version: 0.2.6
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.073536+03:00"
+    created: "2026-07-21T14:16:36.059279+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -879,7 +879,7 @@ entries:
     version: 0.2.5
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.072745+03:00"
+    created: "2026-07-21T14:16:36.058472+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -893,7 +893,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.071936+03:00"
+    created: "2026-07-21T14:16:36.057546+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -907,7 +907,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.071274+03:00"
+    created: "2026-07-21T14:16:36.056895+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -921,7 +921,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.070759+03:00"
+    created: "2026-07-21T14:16:36.05637+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -935,7 +935,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.070236+03:00"
+    created: "2026-07-21T14:16:36.055861+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -949,7 +949,7 @@ entries:
     version: 0.1.26
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.069332+03:00"
+    created: "2026-07-21T14:16:36.055357+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -963,7 +963,7 @@ entries:
     version: 0.1.25
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.068813+03:00"
+    created: "2026-07-21T14:16:36.05486+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -977,7 +977,7 @@ entries:
     version: 0.1.24
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.068279+03:00"
+    created: "2026-07-21T14:16:36.054358+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -991,7 +991,7 @@ entries:
     version: 0.1.23
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.067789+03:00"
+    created: "2026-07-21T14:16:36.053856+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1005,7 +1005,7 @@ entries:
     version: 0.1.21
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.067285+03:00"
+    created: "2026-07-21T14:16:36.053381+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1020,7 +1020,7 @@ entries:
   draft-php:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.079924+03:00"
+    created: "2026-07-21T14:16:36.065353+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1034,7 +1034,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.079427+03:00"
+    created: "2026-07-21T14:16:36.064788+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1048,7 +1048,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.078932+03:00"
+    created: "2026-07-21T14:16:36.063886+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1062,7 +1062,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.078417+03:00"
+    created: "2026-07-21T14:16:36.063369+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1076,7 +1076,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.07786+03:00"
+    created: "2026-07-21T14:16:36.062846+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1090,7 +1090,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.077337+03:00"
+    created: "2026-07-21T14:16:36.062323+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1104,7 +1104,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.084805+03:00"
+    created: "2026-07-21T14:16:36.070144+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1118,7 +1118,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.084328+03:00"
+    created: "2026-07-21T14:16:36.069671+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1132,7 +1132,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.083689+03:00"
+    created: "2026-07-21T14:16:36.068867+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1146,7 +1146,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.083125+03:00"
+    created: "2026-07-21T14:16:36.068372+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1160,7 +1160,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.082216+03:00"
+    created: "2026-07-21T14:16:36.067749+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1174,7 +1174,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.081626+03:00"
+    created: "2026-07-21T14:16:36.06712+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1188,7 +1188,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.081014+03:00"
+    created: "2026-07-21T14:16:36.066481+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1202,7 +1202,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.080387+03:00"
+    created: "2026-07-21T14:16:36.065881+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1216,7 +1216,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.076454+03:00"
+    created: "2026-07-21T14:16:36.061813+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1231,7 +1231,7 @@ entries:
   elasticsearch:
   - apiVersion: v1
     appVersion: 6.8.22
-    created: "2026-06-25T12:36:01.085925+03:00"
+    created: "2026-07-21T14:16:36.072021+03:00"
     description: Official Elastic helm chart for Elasticsearch
     digest: 5bbafc8b33db36a984921d3ab07b812d04e473aba241e677ffa4878f43f6f997
     home: https://github.com/elastic/helm-charts
@@ -1248,7 +1248,7 @@ entries:
   esp:
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2026-06-25T12:36:01.091768+03:00"
+    created: "2026-07-21T14:16:36.077591+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1262,7 +1262,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2026-06-25T12:36:01.090966+03:00"
+    created: "2026-07-21T14:16:36.076313+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1276,7 +1276,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2026-06-25T12:36:01.090051+03:00"
+    created: "2026-07-21T14:16:36.075627+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1290,7 +1290,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2026-06-25T12:36:01.089299+03:00"
+    created: "2026-07-21T14:16:36.074979+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1304,7 +1304,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2026-06-25T12:36:01.088273+03:00"
+    created: "2026-07-21T14:16:36.074449+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1318,7 +1318,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2026-06-25T12:36:01.087785+03:00"
+    created: "2026-07-21T14:16:36.073929+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1332,7 +1332,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2026-06-25T12:36:01.087327+03:00"
+    created: "2026-07-21T14:16:36.073446+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1346,7 +1346,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2026-06-25T12:36:01.08687+03:00"
+    created: "2026-07-21T14:16:36.072995+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1360,7 +1360,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2026-06-25T12:36:01.086367+03:00"
+    created: "2026-07-21T14:16:36.07252+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1375,7 +1375,7 @@ entries:
   forecast-delivery:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.093991+03:00"
+    created: "2026-07-21T14:16:36.079495+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1389,7 +1389,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.093251+03:00"
+    created: "2026-07-21T14:16:36.078863+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1403,7 +1403,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.092505+03:00"
+    created: "2026-07-21T14:16:36.078228+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1418,7 +1418,7 @@ entries:
   gcloud-sqlproxy:
   - apiVersion: v1
     appVersion: "1.17"
-    created: "2026-06-25T12:36:01.095087+03:00"
+    created: "2026-07-21T14:16:36.080635+03:00"
     description: Google Cloud SQL Proxy
     digest: 0f001a0757e13491d1e1a98a3442cd94ea499fd505624b63be7d7e3f6c6e0577
     home: https://cloud.google.com/sql/docs/postgres/sql-proxy
@@ -1442,7 +1442,7 @@ entries:
     version: 0.22.1
   - apiVersion: v1
     appVersion: "1.17"
-    created: "2026-06-25T12:36:01.094759+03:00"
+    created: "2026-07-21T14:16:36.080304+03:00"
     description: Google Cloud SQL Proxy
     digest: 9a886630f60933fec721b2a7c2e580aed5e79a5be807fa67a348b2c867e03721
     home: https://cloud.google.com/sql/docs/postgres/sql-proxy
@@ -1466,7 +1466,7 @@ entries:
     version: 0.22.0
   - apiVersion: v1
     appVersion: "1.16"
-    created: "2026-06-25T12:36:01.094432+03:00"
+    created: "2026-07-21T14:16:36.079968+03:00"
     description: Google Cloud SQL Proxy
     digest: ddf58470961283656d06dacc2a91adb640e608fa162622d0b7fb0069bcaea05e
     home: https://cloud.google.com/sql/docs/postgres/sql-proxy
@@ -1491,7 +1491,7 @@ entries:
   gcsproxy:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.095463+03:00"
+    created: "2026-07-21T14:16:36.081036+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1505,7 +1505,7 @@ entries:
     version: 0.1.2
   helm-cronjobs:
   - apiVersion: v2
-    created: "2026-06-25T12:36:01.096427+03:00"
+    created: "2026-07-21T14:16:36.081809+03:00"
     description: A chart for cron jobs
     digest: abc375e701c298cabbb14a027711057cb0cde4c8ed059b303d522b90ccad6c1b
     name: helm-cronjobs
@@ -1513,7 +1513,7 @@ entries:
     - helm-cronjobs-0.1.12.tgz
     version: 0.1.12
   - apiVersion: v2
-    created: "2026-06-25T12:36:01.095887+03:00"
+    created: "2026-07-21T14:16:36.081464+03:00"
     description: A chart for cron jobs
     digest: 42a8680ac27a23f4bdfb1fe7407a8c6f44c65bf274954815e270125e48019f3d
     name: helm-cronjobs
@@ -1521,7 +1521,7 @@ entries:
     - helm-cronjobs-0.1.11.tgz
     version: 0.1.11
   - apiVersion: v2
-    created: "2026-06-25T12:36:01.095671+03:00"
+    created: "2026-07-21T14:16:36.081264+03:00"
     description: A chart for cron jobs
     digest: 8ce1c5a80beac3fbea7f1630ccb3dc3cf393f9a94b1e90999c0aafc968bd093c
     name: helm-cronjobs
@@ -1529,7 +1529,7 @@ entries:
     - helm-cronjobs-0.1.10.tgz
     version: 0.1.10
   - apiVersion: v2
-    created: "2026-06-25T12:36:01.098002+03:00"
+    created: "2026-07-21T14:16:36.082899+03:00"
     description: A chart for cron jobs
     digest: 6dc8d3c40052a3b1de5edf96b02468e6bff7854e4419211432e1ed70ac4945b4
     name: helm-cronjobs
@@ -1537,7 +1537,7 @@ entries:
     - helm-cronjobs-0.1.9.tgz
     version: 0.1.9
   - apiVersion: v2
-    created: "2026-06-25T12:36:01.097806+03:00"
+    created: "2026-07-21T14:16:36.082696+03:00"
     description: A chart for cron jobs
     digest: 98bc1db83b551b5d814c5a43b6594f5fe9ec1e5289cb64c20d513620460dfb5b
     name: helm-cronjobs
@@ -1545,7 +1545,7 @@ entries:
     - helm-cronjobs-0.1.8.tgz
     version: 0.1.8
   - apiVersion: v2
-    created: "2026-06-25T12:36:01.09754+03:00"
+    created: "2026-07-21T14:16:36.082433+03:00"
     description: A chart for cron jobs
     digest: 738edb92508ef2bb99b5d6d6bc799fd483521b5e10e1c6d7b4facf480ebec0e1
     name: helm-cronjobs
@@ -1553,7 +1553,7 @@ entries:
     - helm-cronjobs-0.1.7.tgz
     version: 0.1.7
   - apiVersion: v2
-    created: "2026-06-25T12:36:01.097313+03:00"
+    created: "2026-07-21T14:16:36.082229+03:00"
     description: A chart for cron jobs
     digest: 11f01e276b88fc9f5b2fca82d626ba18fa7629c09023bf32f84aa04e3f6557f3
     name: helm-cronjobs
@@ -1561,7 +1561,7 @@ entries:
     - helm-cronjobs-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v1
-    created: "2026-06-25T12:36:01.096821+03:00"
+    created: "2026-07-21T14:16:36.082025+03:00"
     description: A chart for cron jobs
     digest: f40caa86ee6a711f05fdbfb6175b2ef2f49f467f0635829f65b29fadddc28c0a
     home: https://github.com/bambash
@@ -1579,7 +1579,7 @@ entries:
   history-php:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.103444+03:00"
+    created: "2026-07-21T14:16:36.088388+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1593,7 +1593,7 @@ entries:
     version: 0.2.8
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.102579+03:00"
+    created: "2026-07-21T14:16:36.087795+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1607,7 +1607,7 @@ entries:
     version: 0.2.7
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.101844+03:00"
+    created: "2026-07-21T14:16:36.087139+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1621,7 +1621,7 @@ entries:
     version: 0.2.6
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.101121+03:00"
+    created: "2026-07-21T14:16:36.086508+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1635,7 +1635,7 @@ entries:
     version: 0.2.5
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.10063+03:00"
+    created: "2026-07-21T14:16:36.08603+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1649,7 +1649,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.100113+03:00"
+    created: "2026-07-21T14:16:36.085552+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1663,7 +1663,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.09962+03:00"
+    created: "2026-07-21T14:16:36.085071+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1677,7 +1677,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.09914+03:00"
+    created: "2026-07-21T14:16:36.084351+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1691,7 +1691,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.098633+03:00"
+    created: "2026-07-21T14:16:36.083824+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1706,7 +1706,7 @@ entries:
   import-php:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.106381+03:00"
+    created: "2026-07-21T14:16:36.091732+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1720,7 +1720,7 @@ entries:
     version: 0.2.11
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.105563+03:00"
+    created: "2026-07-21T14:16:36.090529+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1734,7 +1734,7 @@ entries:
     version: 0.2.10
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.112095+03:00"
+    created: "2026-07-21T14:16:36.097819+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1748,7 +1748,7 @@ entries:
     version: 0.2.9
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.11123+03:00"
+    created: "2026-07-21T14:16:36.096418+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1762,7 +1762,7 @@ entries:
     version: 0.2.8
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.11043+03:00"
+    created: "2026-07-21T14:16:36.095804+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1776,7 +1776,7 @@ entries:
     version: 0.2.7
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.109694+03:00"
+    created: "2026-07-21T14:16:36.095152+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1790,7 +1790,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.108091+03:00"
+    created: "2026-07-21T14:16:36.093435+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1804,7 +1804,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.107149+03:00"
+    created: "2026-07-21T14:16:36.092478+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1818,7 +1818,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.104821+03:00"
+    created: "2026-07-21T14:16:36.0899+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1832,7 +1832,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.104134+03:00"
+    created: "2026-07-21T14:16:36.088887+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1847,7 +1847,7 @@ entries:
   import-vue:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.112872+03:00"
+    created: "2026-07-21T14:16:36.098419+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1862,7 +1862,7 @@ entries:
   md-php:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.129357+03:00"
+    created: "2026-07-21T14:16:36.113425+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1876,7 +1876,7 @@ entries:
     version: 0.3.4
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.127854+03:00"
+    created: "2026-07-21T14:16:36.1123+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1890,7 +1890,7 @@ entries:
     version: 0.3.3
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.126562+03:00"
+    created: "2026-07-21T14:16:36.111154+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1904,7 +1904,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.125199+03:00"
+    created: "2026-07-21T14:16:36.109771+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1918,7 +1918,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.123962+03:00"
+    created: "2026-07-21T14:16:36.108661+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1932,7 +1932,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.122638+03:00"
+    created: "2026-07-21T14:16:36.107572+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1946,7 +1946,7 @@ entries:
     version: 0.2.7
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.121421+03:00"
+    created: "2026-07-21T14:16:36.106496+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1960,7 +1960,7 @@ entries:
     version: 0.2.6
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.120417+03:00"
+    created: "2026-07-21T14:16:36.105498+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1974,7 +1974,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.119196+03:00"
+    created: "2026-07-21T14:16:36.104406+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -1988,7 +1988,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.117595+03:00"
+    created: "2026-07-21T14:16:36.103203+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2002,7 +2002,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.117081+03:00"
+    created: "2026-07-21T14:16:36.102454+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2016,7 +2016,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.116568+03:00"
+    created: "2026-07-21T14:16:36.101946+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2030,7 +2030,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.116061+03:00"
+    created: "2026-07-21T14:16:36.101439+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2044,7 +2044,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.115444+03:00"
+    created: "2026-07-21T14:16:36.100825+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2058,7 +2058,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.114821+03:00"
+    created: "2026-07-21T14:16:36.100223+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2072,7 +2072,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.114204+03:00"
+    created: "2026-07-21T14:16:36.099631+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2086,7 +2086,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.113616+03:00"
+    created: "2026-07-21T14:16:36.099035+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2101,7 +2101,7 @@ entries:
   md-shop:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.129771+03:00"
+    created: "2026-07-21T14:16:36.114063+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2116,7 +2116,7 @@ entries:
   md-socket:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.131826+03:00"
+    created: "2026-07-21T14:16:36.115684+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2130,7 +2130,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.131177+03:00"
+    created: "2026-07-21T14:16:36.11513+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2144,7 +2144,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.130494+03:00"
+    created: "2026-07-21T14:16:36.114601+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2173,7 +2173,7 @@ entries:
       licenses: Apache-2.0
     apiVersion: v2
     appVersion: 7.0.14
-    created: "2026-06-25T12:36:01.143043+03:00"
+    created: "2026-07-21T14:16:36.127508+03:00"
     dependencies:
     - name: common
       repository: oci://registry-1.docker.io/bitnamicharts
@@ -2206,7 +2206,7 @@ entries:
       category: Database
     apiVersion: v2
     appVersion: 4.4.11
-    created: "2026-06-25T12:36:01.137954+03:00"
+    created: "2026-07-21T14:16:36.121943+03:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -2240,7 +2240,7 @@ entries:
       category: Database
     apiVersion: v2
     appVersion: 4.4.11
-    created: "2026-06-25T12:36:01.134772+03:00"
+    created: "2026-07-21T14:16:36.119065+03:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -2272,7 +2272,7 @@ entries:
     version: 10.31.5
   - apiVersion: v1
     appVersion: 4.2.4
-    created: "2026-06-25T12:36:01.148428+03:00"
+    created: "2026-07-21T14:16:36.132585+03:00"
     deprecated: true
     description: DEPRECATED NoSQL document-oriented database that stores JSON-like
       documents with dynamic schemas, simplifying the integration of data in content-driven
@@ -2295,7 +2295,7 @@ entries:
     version: 7.8.11
   - apiVersion: v1
     appVersion: 4.2.4
-    created: "2026-06-25T12:36:01.147426+03:00"
+    created: "2026-07-21T14:16:36.131341+03:00"
     deprecated: true
     description: DEPRECATED NoSQL document-oriented database that stores JSON-like
       documents with dynamic schemas, simplifying the integration of data in content-driven
@@ -2318,7 +2318,7 @@ entries:
     version: 7.8.10
   - apiVersion: v1
     appVersion: 4.0.11
-    created: "2026-06-25T12:36:01.146189+03:00"
+    created: "2026-07-21T14:16:36.130391+03:00"
     description: NoSQL document-oriented database that stores JSON-like documents
       with dynamic schemas, simplifying the integration of data in content-driven
       applications.
@@ -2343,7 +2343,7 @@ entries:
     version: 7.0.4
   - apiVersion: v1
     appVersion: 4.0.11
-    created: "2026-06-25T12:36:01.144895+03:00"
+    created: "2026-07-21T14:16:36.129281+03:00"
     description: NoSQL document-oriented database that stores JSON-like documents
       with dynamic schemas, simplifying the integration of data in content-driven
       applications.
@@ -2368,7 +2368,7 @@ entries:
     version: 7.0.3
   - apiVersion: v1
     appVersion: 4.0.11
-    created: "2026-06-25T12:36:01.143969+03:00"
+    created: "2026-07-21T14:16:36.128407+03:00"
     description: NoSQL document-oriented database that stores JSON-like documents
       with dynamic schemas, simplifying the integration of data in content-driven
       applications.
@@ -2394,7 +2394,7 @@ entries:
   mongoexpress:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.149748+03:00"
+    created: "2026-07-21T14:16:36.133496+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2408,7 +2408,7 @@ entries:
     version: 0.1.1
   php-cronjob-es:
   - apiVersion: v2
-    created: "2026-06-25T12:36:01.152266+03:00"
+    created: "2026-07-21T14:16:36.136032+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2420,7 +2420,7 @@ entries:
     - php-cronjob-es-0.2.3.tgz
     version: 0.2.3
   - apiVersion: v2
-    created: "2026-06-25T12:36:01.151801+03:00"
+    created: "2026-07-21T14:16:36.135563+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2432,7 +2432,7 @@ entries:
     - php-cronjob-es-0.2.2.tgz
     version: 0.2.2
   - apiVersion: v2
-    created: "2026-06-25T12:36:01.151342+03:00"
+    created: "2026-07-21T14:16:36.135107+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2444,7 +2444,7 @@ entries:
     - php-cronjob-es-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v2
-    created: "2026-06-25T12:36:01.150871+03:00"
+    created: "2026-07-21T14:16:36.13463+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2456,7 +2456,7 @@ entries:
     - php-cronjob-es-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
-    created: "2026-06-25T12:36:01.150249+03:00"
+    created: "2026-07-21T14:16:36.134052+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2469,7 +2469,7 @@ entries:
     version: 0.1.1
   php-cronjobs:
   - apiVersion: v2
-    created: "2026-06-25T12:36:01.154254+03:00"
+    created: "2026-07-21T14:16:36.138075+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2481,7 +2481,7 @@ entries:
     - php-cronjobs-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v2
-    created: "2026-06-25T12:36:01.153642+03:00"
+    created: "2026-07-21T14:16:36.137392+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2493,7 +2493,7 @@ entries:
     - php-cronjobs-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v2
-    created: "2026-06-25T12:36:01.153171+03:00"
+    created: "2026-07-21T14:16:36.136938+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2505,7 +2505,7 @@ entries:
     - php-cronjobs-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v2
-    created: "2026-06-25T12:36:01.152715+03:00"
+    created: "2026-07-21T14:16:36.136489+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2519,7 +2519,7 @@ entries:
   proxytracker:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.155016+03:00"
+    created: "2026-07-21T14:16:36.138859+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2534,7 +2534,7 @@ entries:
   psmdb-db:
   - apiVersion: v2
     appVersion: 1.20.1
-    created: "2026-06-25T12:36:01.156563+03:00"
+    created: "2026-07-21T14:16:36.139984+03:00"
     description: A Helm chart for installing Percona Server MongoDB Cluster Databases
       using the PSMDB Operator.
     digest: ac71312fba3ac29a46570a3a230f1ef4254c255c5a0c78bb05937572a592774c
@@ -2553,7 +2553,7 @@ entries:
   psmdb-operator:
   - apiVersion: v2
     appVersion: 1.20.1
-    created: "2026-06-25T12:36:01.158305+03:00"
+    created: "2026-07-21T14:16:36.141579+03:00"
     description: A Helm chart for deploying the Percona Operator for MongoDB
     digest: 476a397e82939161cb7570e2065b6ee7d18e46492316f4ee0970c3db11b43d81
     home: https://docs.percona.com/percona-operator-for-mongodb/
@@ -2571,7 +2571,7 @@ entries:
   react:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.163877+03:00"
+    created: "2026-07-21T14:16:36.146641+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2585,7 +2585,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.163083+03:00"
+    created: "2026-07-21T14:16:36.146033+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2599,7 +2599,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.162376+03:00"
+    created: "2026-07-21T14:16:36.145445+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2613,7 +2613,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.161542+03:00"
+    created: "2026-07-21T14:16:36.144846+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2627,7 +2627,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.161085+03:00"
+    created: "2026-07-21T14:16:36.144378+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2641,7 +2641,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.160416+03:00"
+    created: "2026-07-21T14:16:36.143851+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2655,7 +2655,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.159477+03:00"
+    created: "2026-07-21T14:16:36.143086+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2669,7 +2669,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.15873+03:00"
+    created: "2026-07-21T14:16:36.142302+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2684,7 +2684,7 @@ entries:
   react-landing:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.164576+03:00"
+    created: "2026-07-21T14:16:36.147247+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2698,7 +2698,7 @@ entries:
     version: 0.1.3
   redash-gke:
   - apiVersion: v2
-    created: "2026-06-25T12:36:01.171791+03:00"
+    created: "2026-07-21T14:16:36.15366+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2710,7 +2710,7 @@ entries:
     - redash-gke-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v2
-    created: "2026-06-25T12:36:01.170664+03:00"
+    created: "2026-07-21T14:16:36.153103+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2722,7 +2722,7 @@ entries:
     - redash-gke-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v2
-    created: "2026-06-25T12:36:01.169981+03:00"
+    created: "2026-07-21T14:16:36.152575+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2734,7 +2734,7 @@ entries:
     - redash-gke-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
-    created: "2026-06-25T12:36:01.169434+03:00"
+    created: "2026-07-21T14:16:36.152164+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2748,10 +2748,25 @@ entries:
     urls:
     - redash-gke-0.1.1.tgz
     version: 0.1.1
+  ringdoc-ai:
+  - apiVersion: v2
+    appVersion: 0.1.1
+    created: "2026-07-21T14:16:36.154106+03:00"
+    dependencies:
+    - name: common
+      repository: https://buildasc.github.io/common/
+      version: 0.0.19
+    description: PY
+    digest: 297de633715a87ed64c23cbbfcb7032db2d2dd7a2a937b0767358317a32ea00a
+    name: ringdoc-ai
+    type: application
+    urls:
+    - ringdoc-ai-0.1.0.tgz
+    version: 0.1.0
   sales-php:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.198754+03:00"
+    created: "2026-07-21T14:16:36.180383+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2765,7 +2780,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.198076+03:00"
+    created: "2026-07-21T14:16:36.179739+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2779,7 +2794,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.185498+03:00"
+    created: "2026-07-21T14:16:36.16748+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2793,7 +2808,7 @@ entries:
     version: 0.2.11
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.18484+03:00"
+    created: "2026-07-21T14:16:36.166829+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2807,7 +2822,7 @@ entries:
     version: 0.2.10
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.197213+03:00"
+    created: "2026-07-21T14:16:36.179097+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2821,7 +2836,7 @@ entries:
     version: 0.2.9
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.196658+03:00"
+    created: "2026-07-21T14:16:36.178591+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2838,7 +2853,7 @@ entries:
     version: 0.2.8
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.195036+03:00"
+    created: "2026-07-21T14:16:36.177042+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2855,7 +2870,7 @@ entries:
     version: 0.2.7
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.193041+03:00"
+    created: "2026-07-21T14:16:36.17525+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2872,7 +2887,7 @@ entries:
     version: 0.2.6
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.191625+03:00"
+    created: "2026-07-21T14:16:36.173701+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2889,7 +2904,7 @@ entries:
     version: 0.2.5
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.190223+03:00"
+    created: "2026-07-21T14:16:36.172341+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2906,7 +2921,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.188629+03:00"
+    created: "2026-07-21T14:16:36.170716+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2923,7 +2938,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.186887+03:00"
+    created: "2026-07-21T14:16:36.169293+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2940,7 +2955,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.184197+03:00"
+    created: "2026-07-21T14:16:36.166194+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2957,7 +2972,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.182815+03:00"
+    created: "2026-07-21T14:16:36.164749+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2974,7 +2989,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.173458+03:00"
+    created: "2026-07-21T14:16:36.155774+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -2991,7 +3006,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.181137+03:00"
+    created: "2026-07-21T14:16:36.16324+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3008,7 +3023,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.179789+03:00"
+    created: "2026-07-21T14:16:36.161805+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3025,7 +3040,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.178403+03:00"
+    created: "2026-07-21T14:16:36.160067+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3042,7 +3057,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.176953+03:00"
+    created: "2026-07-21T14:16:36.158642+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3056,7 +3071,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.175802+03:00"
+    created: "2026-07-21T14:16:36.157666+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3070,7 +3085,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.174958+03:00"
+    created: "2026-07-21T14:16:36.15719+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3084,7 +3099,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.174428+03:00"
+    created: "2026-07-21T14:16:36.156707+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3098,7 +3113,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.173936+03:00"
+    created: "2026-07-21T14:16:36.156248+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3113,7 +3128,7 @@ entries:
   sales-push:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.199531+03:00"
+    created: "2026-07-21T14:16:36.181021+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3128,7 +3143,7 @@ entries:
   shp-php:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.202515+03:00"
+    created: "2026-07-21T14:16:36.184255+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3142,7 +3157,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.201729+03:00"
+    created: "2026-07-21T14:16:36.183695+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3156,7 +3171,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.201199+03:00"
+    created: "2026-07-21T14:16:36.183113+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3170,7 +3185,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.207393+03:00"
+    created: "2026-07-21T14:16:36.189214+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3184,7 +3199,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.206832+03:00"
+    created: "2026-07-21T14:16:36.188234+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3198,7 +3213,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.206287+03:00"
+    created: "2026-07-21T14:16:36.187703+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3212,7 +3227,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.20574+03:00"
+    created: "2026-07-21T14:16:36.18715+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3226,7 +3241,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.205172+03:00"
+    created: "2026-07-21T14:16:36.186636+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3240,7 +3255,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.204615+03:00"
+    created: "2026-07-21T14:16:36.186076+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3254,7 +3269,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.204068+03:00"
+    created: "2026-07-21T14:16:36.185557+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3268,7 +3283,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.203514+03:00"
+    created: "2026-07-21T14:16:36.185013+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3282,7 +3297,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.20066+03:00"
+    created: "2026-07-21T14:16:36.18231+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3296,7 +3311,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.200015+03:00"
+    created: "2026-07-21T14:16:36.18155+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3311,7 +3326,7 @@ entries:
   shp-php-xapi:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.20853+03:00"
+    created: "2026-07-21T14:16:36.190274+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3325,7 +3340,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.208037+03:00"
+    created: "2026-07-21T14:16:36.189758+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3340,7 +3355,7 @@ entries:
   storemon-php:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.209962+03:00"
+    created: "2026-07-21T14:16:36.191446+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3354,7 +3369,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.209272+03:00"
+    created: "2026-07-21T14:16:36.190827+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3369,7 +3384,7 @@ entries:
   svc-only:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.211457+03:00"
+    created: "2026-07-21T14:16:36.192612+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3383,7 +3398,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.210734+03:00"
+    created: "2026-07-21T14:16:36.192044+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3398,7 +3413,7 @@ entries:
   vcr-sec:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.212588+03:00"
+    created: "2026-07-21T14:16:36.193844+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3412,7 +3427,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.212217+03:00"
+    created: "2026-07-21T14:16:36.193434+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3426,7 +3441,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.211835+03:00"
+    created: "2026-07-21T14:16:36.193016+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3441,7 +3456,7 @@ entries:
   vendorbridge:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.217576+03:00"
+    created: "2026-07-21T14:16:36.199517+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3455,7 +3470,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.216875+03:00"
+    created: "2026-07-21T14:16:36.198879+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3469,7 +3484,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.216169+03:00"
+    created: "2026-07-21T14:16:36.19826+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3483,7 +3498,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.215458+03:00"
+    created: "2026-07-21T14:16:36.197631+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3497,7 +3512,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.214754+03:00"
+    created: "2026-07-21T14:16:36.197004+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3511,7 +3526,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.214062+03:00"
+    created: "2026-07-21T14:16:36.195741+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3525,7 +3540,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.213366+03:00"
+    created: "2026-07-21T14:16:36.194438+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3540,7 +3555,7 @@ entries:
   web-php:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.233843+03:00"
+    created: "2026-07-21T14:16:36.214778+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3554,7 +3569,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.233079+03:00"
+    created: "2026-07-21T14:16:36.214126+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3568,7 +3583,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.232365+03:00"
+    created: "2026-07-21T14:16:36.213456+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3582,7 +3597,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.226566+03:00"
+    created: "2026-07-21T14:16:36.207813+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3596,7 +3611,7 @@ entries:
     version: 0.2.13
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.225805+03:00"
+    created: "2026-07-21T14:16:36.207165+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3610,7 +3625,7 @@ entries:
     version: 0.2.12
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.225019+03:00"
+    created: "2026-07-21T14:16:36.206512+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3624,7 +3639,7 @@ entries:
     version: 0.2.11
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.223895+03:00"
+    created: "2026-07-21T14:16:36.205843+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3638,7 +3653,7 @@ entries:
     version: 0.2.10
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.231456+03:00"
+    created: "2026-07-21T14:16:36.212767+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3652,7 +3667,7 @@ entries:
     version: 0.2.9
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.2307+03:00"
+    created: "2026-07-21T14:16:36.212091+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3666,7 +3681,7 @@ entries:
     version: 0.2.8
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.229937+03:00"
+    created: "2026-07-21T14:16:36.211387+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3680,7 +3695,7 @@ entries:
     version: 0.2.7
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.229398+03:00"
+    created: "2026-07-21T14:16:36.210825+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3694,7 +3709,7 @@ entries:
     version: 0.2.6
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.228856+03:00"
+    created: "2026-07-21T14:16:36.210311+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3708,7 +3723,7 @@ entries:
     version: 0.2.5
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.228316+03:00"
+    created: "2026-07-21T14:16:36.209784+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3722,7 +3737,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.227773+03:00"
+    created: "2026-07-21T14:16:36.209255+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3736,7 +3751,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.227239+03:00"
+    created: "2026-07-21T14:16:36.208325+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3750,7 +3765,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.223098+03:00"
+    created: "2026-07-21T14:16:36.205164+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3764,7 +3779,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.222573+03:00"
+    created: "2026-07-21T14:16:36.204626+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3778,7 +3793,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.222047+03:00"
+    created: "2026-07-21T14:16:36.204099+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3792,7 +3807,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.221533+03:00"
+    created: "2026-07-21T14:16:36.203553+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3806,7 +3821,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.220994+03:00"
+    created: "2026-07-21T14:16:36.202976+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3820,7 +3835,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.220493+03:00"
+    created: "2026-07-21T14:16:36.202088+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3834,7 +3849,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.22001+03:00"
+    created: "2026-07-21T14:16:36.20162+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3848,7 +3863,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.219031+03:00"
+    created: "2026-07-21T14:16:36.200608+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3862,7 +3877,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.218408+03:00"
+    created: "2026-07-21T14:16:36.199996+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3877,7 +3892,7 @@ entries:
   web-sales-php:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.2456+03:00"
+    created: "2026-07-21T14:16:36.225265+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3891,7 +3906,7 @@ entries:
     version: 0.3.7
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.244748+03:00"
+    created: "2026-07-21T14:16:36.224518+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3905,7 +3920,7 @@ entries:
     version: 0.3.6
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.243935+03:00"
+    created: "2026-07-21T14:16:36.223822+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3919,7 +3934,7 @@ entries:
     version: 0.3.5
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.243146+03:00"
+    created: "2026-07-21T14:16:36.223088+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3933,7 +3948,7 @@ entries:
     version: 0.3.4
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.24232+03:00"
+    created: "2026-07-21T14:16:36.222368+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3947,7 +3962,7 @@ entries:
     version: 0.3.3
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.241488+03:00"
+    created: "2026-07-21T14:16:36.22155+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3961,7 +3976,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.240668+03:00"
+    created: "2026-07-21T14:16:36.220675+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3975,7 +3990,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.239859+03:00"
+    created: "2026-07-21T14:16:36.220002+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -3989,7 +4004,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.238658+03:00"
+    created: "2026-07-21T14:16:36.219355+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4003,7 +4018,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.237747+03:00"
+    created: "2026-07-21T14:16:36.218657+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4017,7 +4032,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.236941+03:00"
+    created: "2026-07-21T14:16:36.218014+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4031,7 +4046,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.236191+03:00"
+    created: "2026-07-21T14:16:36.217359+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4045,7 +4060,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.235443+03:00"
+    created: "2026-07-21T14:16:36.216686+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4063,7 +4078,7 @@ entries:
   websocket-delivery:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.251698+03:00"
+    created: "2026-07-21T14:16:36.231145+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4077,7 +4092,7 @@ entries:
     version: 0.2.5
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.250969+03:00"
+    created: "2026-07-21T14:16:36.230509+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4091,7 +4106,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.250206+03:00"
+    created: "2026-07-21T14:16:36.229856+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4105,7 +4120,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.249728+03:00"
+    created: "2026-07-21T14:16:36.229378+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4119,7 +4134,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.249246+03:00"
+    created: "2026-07-21T14:16:36.22884+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4133,7 +4148,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.248765+03:00"
+    created: "2026-07-21T14:16:36.227916+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4147,7 +4162,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.248288+03:00"
+    created: "2026-07-21T14:16:36.227443+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4161,7 +4176,7 @@ entries:
     version: 0.1.19
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.247825+03:00"
+    created: "2026-07-21T14:16:36.227008+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4175,7 +4190,7 @@ entries:
     version: 0.1.18
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.247392+03:00"
+    created: "2026-07-21T14:16:36.226567+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4189,7 +4204,7 @@ entries:
     version: 0.1.17
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.24692+03:00"
+    created: "2026-07-21T14:16:36.226133+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4203,7 +4218,7 @@ entries:
     version: 0.1.16
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2026-06-25T12:36:01.246046+03:00"
+    created: "2026-07-21T14:16:36.225699+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4218,7 +4233,7 @@ entries:
   wm-imp-pii:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.252311+03:00"
+    created: "2026-07-21T14:16:36.231613+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4233,7 +4248,7 @@ entries:
   wm-php-spp:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.262369+03:00"
+    created: "2026-07-21T14:16:36.241296+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4247,7 +4262,7 @@ entries:
     version: 0.2.8
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.26186+03:00"
+    created: "2026-07-21T14:16:36.240785+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4261,7 +4276,7 @@ entries:
     version: 0.2.7
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.261157+03:00"
+    created: "2026-07-21T14:16:36.240279+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4275,7 +4290,7 @@ entries:
     version: 0.2.6
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.260632+03:00"
+    created: "2026-07-21T14:16:36.23975+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4289,7 +4304,7 @@ entries:
     version: 0.2.5
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.26007+03:00"
+    created: "2026-07-21T14:16:36.239247+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4303,7 +4318,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.259385+03:00"
+    created: "2026-07-21T14:16:36.238736+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4317,7 +4332,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.258679+03:00"
+    created: "2026-07-21T14:16:36.23827+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4331,7 +4346,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.258187+03:00"
+    created: "2026-07-21T14:16:36.237775+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4345,7 +4360,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.257488+03:00"
+    created: "2026-07-21T14:16:36.237122+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4359,7 +4374,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.256838+03:00"
+    created: "2026-07-21T14:16:36.236465+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4373,7 +4388,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.256327+03:00"
+    created: "2026-07-21T14:16:36.235315+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4387,7 +4402,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.25584+03:00"
+    created: "2026-07-21T14:16:36.234786+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4401,7 +4416,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.255317+03:00"
+    created: "2026-07-21T14:16:36.234274+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4415,7 +4430,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.254817+03:00"
+    created: "2026-07-21T14:16:36.233764+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4429,7 +4444,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.254324+03:00"
+    created: "2026-07-21T14:16:36.233237+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4443,7 +4458,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-25T12:36:01.253431+03:00"
+    created: "2026-07-21T14:16:36.232407+03:00"
     dependencies:
     - name: common
       repository: https://buildasc.github.io/common/
@@ -4455,4 +4470,4 @@ entries:
     urls:
     - wm-php-spp-0.1.1.tgz
     version: 0.1.1
-generated: "2026-06-25T12:36:01.027304+03:00"
+generated: "2026-07-21T14:16:36.01528+03:00"
